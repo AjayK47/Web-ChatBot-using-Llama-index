@@ -1,0 +1,6 @@
+llama-index
+streamlit
+"transformers[torch]" "huggingface_hub[inference]"
+transformers
+beautifulsoup4
+unstructured
